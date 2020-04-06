@@ -51,6 +51,10 @@ Go to project root directory
 ```
 cd Fairdrop
 ```
+Install dependencies
+'''
+npm install
+'''
 
 Now run the devserver
 
